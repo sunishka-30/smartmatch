@@ -1,0 +1,61 @@
+enquiry_id,raw_text,true_product,true_quantity,true_location,true_urgency,true_quality,expected_supplier_ids
+ENQ-5001,need 500 kg SS 304 sheets delhi urgent delivery required,SS 304 Sheets,500 kg,Delhi,high,clear,"[""SUP-1004"", ""SUP-1006""]"
+ENQ-5002,require 2 tons MS angles 50x50mm in Ludhiana for factory construction,MS Angles,2 tons,Ludhiana,medium,clear,"[""SUP-1001"", ""SUP-1003""]"
+ENQ-5003,want rate quote for 10 tons TMT rebars fe500d pune location,TMT Rebars,10 tons,Pune,medium,clear,"[""SUP-1005"", ""SUP-1006""]"
+ENQ-5004,looking for 300 kg aluminum coils 1.5mm thick ahmedabad,Aluminum Coils,300 kg,Ahmedabad,low,clear,"[""SUP-1002"", ""SUP-1009""]"
+ENQ-5005,urgent requirement copper pipes 1/4 inch 100 kg rajkot,Copper Pipes,100 kg,Rajkot,high,clear,"[""SUP-1002"", ""SUP-1003""]"
+ENQ-5006,need 1000 pcs 5 ply corrugated boxes Surat urgent export pack,Corrugated Boxes,1000 pcs,Surat,high,clear,"[""SUP-1038"", ""SUP-1039"", ""SUP-1043""]"
+ENQ-5007,plz send price list for 100 rolls bubble wrap 50 micron mumbai,Bubble Wrap Rolls,100 rolls,Mumbai,medium,clear,"[""SUP-1036"", ""SUP-1043""]"
+ENQ-5008,require 500 rolls brown BOPP tape 48mm delhi ncr,BOPP Tapes,500 rolls,Delhi,low,clear,"[""SUP-1035"", ""SUP-1036""]"
+ENQ-5009,looking for LLDPE stretch film 20 micron 200 kg bhiwandi,Stretch Film,200 kg,Bhiwandi,medium,clear,"[""SUP-1035"", ""SUP-1039"", ""SUP-1040""]"
+ENQ-5010,need 50 blue HDPE drums 200 Litre open top in Vapi,HDPE Drums,50 pcs,Vapi,high,clear,"[""SUP-1038"", ""SUP-1040""]"
+ENQ-5011,need 2000 meters 100% cotton fabric rolls 60s count tirupur,Cotton Fabric Rolls,2000 meters,Tirupur,high,clear,"[""SUP-1073"", ""SUP-1074"", ""SUP-1081""]"
+ENQ-5012,plz give best rate for 1 ton polyester yarn 150D Surat bulk order,Polyester Yarn,1 ton,Surat,medium,clear,"[""SUP-1069"", ""SUP-1070""]"
+ENQ-5013,require indigo denim fabric 12 oz 1000 meters jaipur urgent,Denim Fabric,1000 meters,Jaipur,high,clear,"[""SUP-1071"", ""SUP-1074""]"
+ENQ-5014,want 1500 meters rayon print fabric ahmedabad textile market,Rayon Printed Fabric,1500 meters,Ahmedabad,medium,clear,"[""SUP-1069"", ""SUP-1070""]"
+ENQ-5015,need 1000 pcs jute bags 50kg capacity ludhiana mill,Jute Fabric & Bags,1000 pcs,Ludhiana,low,clear,"[""SUP-1069"", ""SUP-1070""]"
+ENQ-5016,looking for 3-axis CNC lathe machine Fanuc control Pune installation,CNC Lathe Machine,1 unit,Pune,medium,clear,"[""SUP-1104"", ""SUP-1105"", ""SUP-1108""]"
+ENQ-5017,require 50 ton hydraulic press machine C frame Coimbatore,Hydraulic Press Machine,1 unit,Coimbatore,medium,clear,"[""SUP-1102"", ""SUP-1103""]"
+ENQ-5018,need 15 HP screw industrial air compressor 10 bar Bangalore urgent,Industrial Air Compressor,1 unit,Bangalore,high,clear,"[""SUP-1104"", ""SUP-1107"", ""SUP-1115""]"
+ENQ-5019,want roller conveyor belt system SS 304 10 meters length Thane,Conveyor Belt System,1 set,Thane,medium,clear,"[""SUP-1106"", ""SUP-1107"", ""SUP-1108""]"
+ENQ-5020,requirement of automatic pouch packaging machine FFS Rajkot,Automatic Pouch Packaging Machine,1 unit,Rajkot,high,clear,"[""SUP-1102"", ""SUP-1103""]"
+ENQ-5021,need 200 pcs 3 pole MCB 32A 10kA Delhi electrical market,MCB Circuit Breakers,200 pcs,Delhi,high,clear,"[""SUP-1135"", ""SUP-1142"", ""SUP-1143""]"
+ENQ-5022,require 500 meters 4 core 25 sq mm armoured copper cable Noida,Armoured Copper Cables,500 meters,Noida,medium,clear,"[""SUP-1135"", ""SUP-1136"", ""SUP-1137""]"
+ENQ-5023,looking for 50W LED driver modules IP65 500 pcs Vadodara,LED Driver Modules,500 pcs,Vadodara,medium,clear,"[""SUP-1137"", ""SUP-1138"", ""SUP-1141""]"
+ENQ-5024,need 10kW solar on-grid inverter 3 phase Jaipur installation,Solar On-Grid Inverter,1 unit,Jaipur,low,clear,"[""SUP-1138"", ""SUP-1139""]"
+ENQ-5025,want 7.5 HP three phase electric motor 1440 RPM Mumbai urgent,Three Phase Electric Motor,1 unit,Mumbai,high,clear,"[""SUP-1136"", ""SUP-1137""]"
+ENQ-5026,need 1 ton caustic soda flakes 99% purity Ankleshwar plant,Industrial Caustic Soda,1 ton,Ankleshwar,high,clear,"[""SUP-1169"", ""SUP-1170"", ""SUP-1171""]"
+ENQ-5027,require 1000 Litres Acetone solvent 99.5% drum packing Vapi,Industrial Solvents (Acetone/IPA),1000 Litres,Vapi,medium,clear,"[""SUP-1170"", ""SUP-1171"", ""SUP-1173""]"
+ENQ-5028,looking for Phthalo Blue pigment powder 200 kg Ahmedabad,Organic Pigment Powder,200 kg,Ahmedabad,low,clear,"[""SUP-1168"", ""SUP-1170""]"
+ENQ-5029,need polyurethane resin liquid 2 component 500 kg Hyderabad,Polyurethane Resins,500 kg,Hyderabad,medium,clear,"[""SUP-1169"", ""SUP-1177"", ""SUP-1178""]"
+ENQ-5030,urgent requirement sulfuric acid 98% 5 tons carboys Chennai,Commercial Sulfuric Acid,5 tons,Chennai,high,clear,"[""SUP-1172"", ""SUP-1175"", ""SUP-1177""]"
+ENQ-5031,need steel sheets,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5032,want packaging box urgently,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5033,send fabric price list,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5034,looking for machine for factory,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5035,electrical wire required urgent,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5036,chemical supplier contact number,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5037,need plastic bags bulk,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5038,want electric motor rate,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5039,metal required in delhi location,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5040,buying industrial raw material,unspecified,unspecified,unspecified,unspecified,vague,[]
+ENQ-5041,Earn Rs 50000 monthly working online from home click http://bit.ly/fakejob,none,N/A,N/A,unspecified,spam,[]
+ENQ-5042,Cheap personal loan approved in 5 mins no CIBIL check call 9876543210,none,N/A,N/A,unspecified,spam,[]
+ENQ-5043,asdfghjkl zxcvbnm 123456 test query,none,N/A,N/A,unspecified,spam,[]
+ENQ-5044,Required urgently telecallers for BPO in Noida salary 18k join immediately,none,N/A,N/A,unspecified,spam,[]
+ENQ-5045,Buy Instagram followers and likes cheap rate 999 INR for 10k guaranteed,none,N/A,N/A,unspecified,spam,[]
+ENQ-5046,Win iPhone 15 Pro Max free spin the wheel now http://spam-win.com,none,N/A,N/A,unspecified,spam,[]
+ENQ-5047,Data entry work available daily payout contact on whatsapp 9123456789,none,N/A,N/A,unspecified,spam,[]
+ENQ-5048,testing query 1234 test test test ignore,none,N/A,N/A,unspecified,spam,[]
+ENQ-5049,Crypto trading signals 100x profit guaranteed join telegram channel @fakecrypto,none,N/A,N/A,unspecified,spam,[]
+ENQ-5050,Hello sir how are you doing today please call me back,none,N/A,N/A,unspecified,spam,[]
+ENQ-5051,need 500 boxes N95 surgical facemasks in Mumbai urgent,N95 Surgical Masks,500 boxes,Mumbai,high,clear,[]
+ENQ-5052,require 50 crates organic Alphonso mangoes for export in Pune,Organic Alphonso Mangoes,50 crates,Pune,medium,clear,[]
+ENQ-5053,looking for Oracle ERP Cloud software user license 25 seats Bangalore,Oracle ERP Licenses,25 seats,Bangalore,low,clear,[]
+ENQ-5054,need hydraulic brake pads for Hyundai Creta car 100 sets Delhi,Automotive Brake Pads,100 sets,Delhi,high,clear,[]
+ENQ-5055,requirement of 200 units wooden office dining tables in Hyderabad,Wooden Office Tables,200 units,Hyderabad,medium,clear,[]
+ENQ-5056,need 5000 litres packaged mineral drinking water 20L jars Gurgaon,Packaged Mineral Water,5000 Litres,Gurgaon,high,clear,[]
+ENQ-5057,want to buy 50 sets hospital ICU patient beds in Chennai,Hospital ICU Beds,50 sets,Chennai,high,clear,[]
+ENQ-5058,require solar rooftop panel installation 50kW residential Jaipur,Solar Rooftop Panel Installation,50 kW,Jaipur,medium,clear,[]
+ENQ-5059,looking for diesel generator set 125 kVA Silent Soundproof Kolkata,Diesel Generator 125 kVA,1 set,Kolkata,high,clear,[]
+ENQ-5060,need 1000 kg frozen chicken breast meat in Ahmedabad,Frozen Chicken Meat,1000 kg,Ahmedabad,medium,clear,[]
