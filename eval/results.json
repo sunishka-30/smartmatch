@@ -1,0 +1,47 @@
+{
+  "extraction_accuracy_pct": {
+    "product": 80.0,
+    "quantity": 76.67,
+    "location": 96.67,
+    "urgency": 41.67
+  },
+  "quality_confusion_matrix": {
+    "clear": {
+      "clear": 40,
+      "vague": 0,
+      "spam": 0
+    },
+    "vague": {
+      "clear": 7,
+      "vague": 3,
+      "spam": 0
+    },
+    "spam": {
+      "clear": 0,
+      "vague": 0,
+      "spam": 10
+    }
+  },
+  "spam_metrics": {
+    "precision_pct": 100.0,
+    "recall_pct": 100.0
+  },
+  "match_metrics": {
+    "top1_hit_rate_pct": 13.33,
+    "top3_hit_rate_pct": 46.67,
+    "mrr": 0.3067
+  },
+  "no_match_metrics": {
+    "out_of_catalogue_precision_pct": 90.0,
+    "false_no_match_rate_pct": 10.0
+  },
+  "hallucination_count": 0,
+  "telemetry": {
+    "avg_latency_ms": 162.6,
+    "p95_latency_ms": 227.87,
+    "avg_input_tokens": 0.0,
+    "avg_output_tokens": 0.0,
+    "avg_total_tokens": 0.0,
+    "est_cost_per_query_usd": 0.0
+  }
+}
